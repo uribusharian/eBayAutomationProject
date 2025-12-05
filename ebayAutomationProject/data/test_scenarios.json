@@ -1,0 +1,29 @@
+
+
+
+[
+  {
+    "scenarioName": "Buy cheap shoes",
+    "query": "running shoes",
+    "maxPrice": 100,
+    "limit": 4,
+    "maxCartTotal": 300,
+    "userKey": "defaultUser"
+  },
+  {
+    "scenarioName": "Buy headphones",
+    "query": "wireless headphones",
+    "maxPrice": 60,
+    "limit": 2,
+    "maxCartTotal": 100,
+    "userKey": "defaultUser"
+  },
+  {
+    "scenarioName": "Cheap laptop accessories",
+    "query": "laptop stand",
+    "maxPrice": 30,
+    "limit": 3,
+    "maxCartTotal": 80,
+    "userKey": "defaultUser"
+  }
+]

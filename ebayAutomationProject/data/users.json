@@ -1,0 +1,12 @@
+
+
+{
+  "defaultUser": {
+    "username": "test_user@example.com",
+    "password": "TestPassword123!"
+  },
+  "anotherUser": {
+    "username": "example_user2@example.com",
+    "password": "ExamplePassword456!"
+  }
+}
